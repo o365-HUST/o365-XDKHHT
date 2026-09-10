@@ -31,13 +31,26 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Prepare site
+        run: |
+          set -euo pipefail
+          mkdir -p _site
+          mapfile -t htmls < <(find page -maxdepth 1 -type f -name '*.html')
+          if [ "${#htmls[@]}" -ne 1 ]; then
+            echo "Expected exactly 1 HTML in page/, found ${#htmls[@]}"
+            exit 1
+          fi
+          cp "${htmls[0]}" _site/index.html
+          cp -r assets _site/assets
+          cp -r data _site/data
+          if [ -f CNAME ]; then cp CNAME _site/CNAME; fi
+          touch _site/.nojekyll
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
-          path: '.'
+          path: _site
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
