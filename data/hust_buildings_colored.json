@@ -1,0 +1,618 @@
+[
+  {
+    "name": "Bãi xe B1",
+    "name_eng": "Car park B1",
+    "type": "uni_car_parking",
+    "lat": 21.002819,
+    "lon": 105.84658
+  },
+  {
+    "name": "Bãi xe C1",
+    "name_eng": "Car park C1",
+    "type": "uni_car_parking",
+    "lat": 21.005473,
+    "lon": 105.842749
+  },
+  {
+    "name": "Bãi xe C1",
+    "name_eng": "Car park C1",
+    "type": "uni_car_parking",
+    "lat": 21.005313,
+    "lon": 105.843136
+  },
+  {
+    "name": "Bãi xe C1",
+    "name_eng": "Car park C1",
+    "type": "uni_car_parking",
+    "lat": 21.005476,
+    "lon": 105.843476
+  },
+  {
+    "name": "Bãi xe C2",
+    "name_eng": "Car park C2",
+    "type": "uni_car_parking",
+    "lat": 21.005366,
+    "lon": 105.841974
+  },
+  {
+    "name": "Bãi xe C7",
+    "name_eng": "Car park C7",
+    "type": "uni_car_parking",
+    "lat": 21.007045,
+    "lon": 105.845485
+  },
+  {
+    "name": "Bãi xe C9",
+    "name_eng": "Car park C9",
+    "type": "uni_car_parking",
+    "lat": 21.007185,
+    "lon": 105.842069
+  },
+  {
+    "name": "Bể bơi Bách Khoa",
+    "name_eng": "Bach Khoa Swimming pool",
+    "type": "uni_other_building",
+    "lat": 21.0034683,
+    "lon": 105.8472117
+  },
+  {
+    "name": "C1",
+    "name_eng": "C1",
+    "type": "uni_building",
+    "lat": 21.0070496,
+    "lon": 105.8431412
+  },
+  {
+    "name": "C10",
+    "name_eng": "C10",
+    "type": "uni_building",
+    "lat": 21.0054507,
+    "lon": 105.8440637
+  },
+  {
+    "name": "C10b",
+    "name_eng": "",
+    "type": "uni_other_building",
+    "lat": 21.0054058,
+    "lon": 105.844469
+  },
+  {
+    "name": "C15",
+    "name_eng": "",
+    "type": "uni_other_building",
+    "lat": 21.0060366,
+    "lon": 105.8454095
+  },
+  {
+    "name": "C1B",
+    "name_eng": "Building B1",
+    "type": "uni_other_building",
+    "lat": 21.00569,
+    "lon": 105.844172
+  },
+  {
+    "name": "C2",
+    "name_eng": "C2",
+    "type": "uni_building",
+    "lat": 21.0064008,
+    "lon": 105.8423177
+  },
+  {
+    "name": "C3",
+    "name_eng": "C3",
+    "type": "uni_building",
+    "lat": 21.0065656,
+    "lon": 105.8439887
+  },
+  {
+    "name": "C3-4",
+    "name_eng": "C3-4",
+    "type": "uni_building",
+    "lat": 21.006237,
+    "lon": 105.843712
+  },
+  {
+    "name": "C3B",
+    "name_eng": "",
+    "type": "uni_other_building",
+    "lat": 21.005967,
+    "lon": 105.844865
+  },
+  {
+    "name": "C4",
+    "name_eng": "C4",
+    "type": "uni_building",
+    "lat": 21.0061767,
+    "lon": 105.8440447
+  },
+  {
+    "name": "C4-5",
+    "name_eng": "C4-5",
+    "type": "uni_building",
+    "lat": 21.006632,
+    "lon": 105.843735
+  },
+  {
+    "name": "C4B",
+    "name_eng": "",
+    "type": "uni_other_building",
+    "lat": 21.006256,
+    "lon": 105.844355
+  },
+  {
+    "name": "C5",
+    "name_eng": "C5",
+    "type": "uni_building",
+    "lat": 21.0057719,
+    "lon": 105.844036
+  },
+  {
+    "name": "C5-10",
+    "name_eng": "C5-10",
+    "type": "uni_building",
+    "lat": 21.006976,
+    "lon": 105.843704
+  },
+  {
+    "name": "C7",
+    "name_eng": "C7",
+    "type": "uni_building",
+    "lat": 21.0055894,
+    "lon": 105.8450396
+  },
+  {
+    "name": "C9",
+    "name_eng": "",
+    "type": "uni_other_building",
+    "lat": 21.0058256,
+    "lon": 105.8422125
+  },
+  {
+    "name": "Căng tin B5-9",
+    "name_eng": "Canteen B5-9",
+    "type": "uni_other_building",
+    "lat": 21.00624,
+    "lon": 105.8471202
+  },
+  {
+    "name": "D2A",
+    "name_eng": "D2A",
+    "type": "uni_building",
+    "lat": 21.0048547,
+    "lon": 105.8425549
+  },
+  {
+    "name": "D2B",
+    "name_eng": "D2B",
+    "type": "uni_other_building",
+    "lat": 21.0047916,
+    "lon": 105.8428914
+  },
+  {
+    "name": "D3",
+    "name_eng": "D3",
+    "type": "uni_building",
+    "lat": 21.0047725,
+    "lon": 105.8450109
+  },
+  {
+    "name": "D3-5",
+    "name_eng": "D3-5",
+    "type": "uni_building",
+    "lat": 21.0045146,
+    "lon": 105.8452815
+  },
+  {
+    "name": "D4",
+    "name_eng": "D4",
+    "type": "uni_building",
+    "lat": 21.0042454,
+    "lon": 105.8420735
+  },
+  {
+    "name": "D5",
+    "name_eng": "D5",
+    "type": "uni_building",
+    "lat": 21.0043588,
+    "lon": 105.8449478
+  },
+  {
+    "name": "D6",
+    "name_eng": "D6",
+    "type": "uni_building",
+    "lat": 21.0042977,
+    "lon": 105.8426879
+  },
+  {
+    "name": "D7",
+    "name_eng": "D7",
+    "type": "uni_building",
+    "lat": 21.0040895,
+    "lon": 105.8449099
+  },
+  {
+    "name": "D8",
+    "name_eng": "D8",
+    "type": "uni_building",
+    "lat": 21.0039551,
+    "lon": 105.842668
+  },
+  {
+    "name": "D9",
+    "name_eng": "D9",
+    "type": "uni_building",
+    "lat": 21.0038171,
+    "lon": 105.8441344
+  },
+  {
+    "name": "HUST Digital Hub",
+    "name_eng": "",
+    "type": "uni_other_building",
+    "lat": 21.0047088,
+    "lon": 105.8432949
+  },
+  {
+    "name": "Hố cát ném lựu đạn",
+    "name_eng": "",
+    "type": "uni_other_building",
+    "lat": 21.006334,
+    "lon": 105.8475699
+  },
+  {
+    "name": "Hồ Tiền",
+    "name_eng": "",
+    "type": "",
+    "lat": 21.0041033,
+    "lon": 105.8433546
+  },
+  {
+    "name": "Hội trường B6",
+    "name_eng": "Auditorium B6",
+    "type": "uni_other_building",
+    "lat": 21.0062361,
+    "lon": 105.8461438
+  },
+  {
+    "name": "Hội trường cao đằng nghề",
+    "name_eng": "",
+    "type": "uni_other_building",
+    "lat": 21.004683,
+    "lon": 105.847234
+  },
+  {
+    "name": "ITIMS",
+    "name_eng": "",
+    "type": "uni_other_building",
+    "lat": 21.0055038,
+    "lon": 105.843541
+  },
+  {
+    "name": "KTX A2",
+    "name_eng": "Dorm A2",
+    "type": "uni_other_building",
+    "lat": 21.004606,
+    "lon": 105.848954
+  },
+  {
+    "name": "KTX A3",
+    "name_eng": "Dorm A3",
+    "type": "uni_other_building",
+    "lat": 21.004272,
+    "lon": 105.848623
+  },
+  {
+    "name": "KTX B13",
+    "name_eng": "Dorm B13",
+    "type": "uni_other_building",
+    "lat": 21.006061,
+    "lon": 105.847668
+  },
+  {
+    "name": "KTX B13b",
+    "name_eng": "Dorm B13B",
+    "type": "uni_other_building",
+    "lat": 21.0059,
+    "lon": 105.847669
+  },
+  {
+    "name": "KTX B3",
+    "name_eng": "Dorm B3",
+    "type": "uni_other_building",
+    "lat": 21.007011,
+    "lon": 105.847589
+  },
+  {
+    "name": "KTX B5",
+    "name_eng": "Dorm B5",
+    "type": "uni_other_building",
+    "lat": 21.006196,
+    "lon": 105.846865
+  },
+  {
+    "name": "KTX B5b",
+    "name_eng": "Dorm B5b",
+    "type": "uni_other_building",
+    "lat": 21.006051,
+    "lon": 105.846849
+  },
+  {
+    "name": "KTX B6",
+    "name_eng": "Dorm B6",
+    "type": "uni_other_building",
+    "lat": 21.006177,
+    "lon": 105.84611
+  },
+  {
+    "name": "KTX B7",
+    "name_eng": "Dorm B7",
+    "type": "uni_other_building",
+    "lat": 21.006591,
+    "lon": 105.846089
+  },
+  {
+    "name": "KTX B7bis",
+    "name_eng": "Dorm B7bis",
+    "type": "uni_other_building",
+    "lat": 21.006965,
+    "lon": 105.846068
+  },
+  {
+    "name": "KTX B8",
+    "name_eng": "Dorm B8",
+    "type": "uni_other_building",
+    "lat": 21.007369,
+    "lon": 105.84612
+  },
+  {
+    "name": "KTX B9",
+    "name_eng": "Dorm B9",
+    "type": "uni_other_building",
+    "lat": 21.00656,
+    "lon": 105.846878
+  },
+  {
+    "name": "Nhà A",
+    "name_eng": "Building A",
+    "type": "uni_other_building",
+    "lat": 21.001947,
+    "lon": 105.8487757
+  },
+  {
+    "name": "Nhà A17",
+    "name_eng": "Building A17",
+    "type": "uni_other_building",
+    "lat": 21.0038482,
+    "lon": 105.8476778
+  },
+  {
+    "name": "Nhà Cựu sinh viên Bách khoa",
+    "name_eng": "Alumni house",
+    "type": "uni_other_building",
+    "lat": 21.0046961,
+    "lon": 105.8434997
+  },
+  {
+    "name": "Nhà E",
+    "name_eng": "Building E",
+    "type": "uni_other_building",
+    "lat": 21.0036944,
+    "lon": 105.848219
+  },
+  {
+    "name": "Nhà TC",
+    "name_eng": "Building TC",
+    "type": "uni_other_building",
+    "lat": 21.0027104,
+    "lon": 105.8465078
+  },
+  {
+    "name": "Nhà Trung tâm Phục vụ Tổng hợp Bách khoa",
+    "name_eng": "General Service house",
+    "type": "uni_other_building",
+    "lat": 21.0052233,
+    "lon": 105.8468893
+  },
+  {
+    "name": "Nhà thi đấu Bách Khoa",
+    "name_eng": "Bach Khoa Sport Arena",
+    "type": "uni_other_building",
+    "lat": 21.0032042,
+    "lon": 105.8468249
+  },
+  {
+    "name": "Nhà xe B1",
+    "name_eng": "Two-Wheel Parking B1",
+    "type": "uni_motor_parking",
+    "lat": 21.0047517,
+    "lon": 105.8460803
+  },
+  {
+    "name": "Nhà xe B13",
+    "name_eng": "Two-Wheel Parking B13",
+    "type": "uni_motor_parking",
+    "lat": 21.0064217,
+    "lon": 105.8476084
+  },
+  {
+    "name": "Nhà xe B6",
+    "name_eng": "Two-Wheel Parking B6",
+    "type": "uni_motor_parking",
+    "lat": 21.0066161,
+    "lon": 105.846516
+  },
+  {
+    "name": "Nhà xe C5",
+    "name_eng": "Two-Wheel Parking C5",
+    "type": "uni_motor_parking",
+    "lat": 21.0055807,
+    "lon": 105.8442055
+  },
+  {
+    "name": "Nhà xe C5",
+    "name_eng": "Car park C5",
+    "type": "uni_car_parking",
+    "lat": 21.0055807,
+    "lon": 105.8442055
+  },
+  {
+    "name": "Nhà ăn A1-5",
+    "name_eng": "Cafeteria A1-5",
+    "type": "uni_other_building",
+    "lat": 21.0043867,
+    "lon": 105.8476002
+  },
+  {
+    "name": "Quảng trường C1",
+    "name_eng": "",
+    "type": "",
+    "lat": 21.0062418,
+    "lon": 105.8431304
+  },
+  {
+    "name": "Quảng trường Trần Đại Nghĩa",
+    "name_eng": "",
+    "type": "",
+    "lat": 21.0064096,
+    "lon": 105.8420963
+  },
+  {
+    "name": "Quảng trường ngã 5",
+    "name_eng": "",
+    "type": "",
+    "lat": 21.005453,
+    "lon": 105.843219
+  },
+  {
+    "name": "Sim thẻ, Tạp hóa, Giặt là",
+    "name_eng": "Sim card, Grocery, Laundry",
+    "type": "uni_other_building",
+    "lat": 21.006389,
+    "lon": 105.846431
+  },
+  {
+    "name": "Sân B13",
+    "name_eng": "",
+    "type": "uni_no_show",
+    "lat": 21.0061783,
+    "lon": 105.8476294
+  },
+  {
+    "name": "Sân Bóng chuyền",
+    "name_eng": "Volleyball court",
+    "type": "",
+    "lat": 21.001876,
+    "lon": 105.843994
+  },
+  {
+    "name": "Sân bóng rổ",
+    "name_eng": "Basketball court",
+    "type": "uni_other_building",
+    "lat": 21.004527,
+    "lon": 105.848062
+  },
+  {
+    "name": "Sân bóng rổ KTX",
+    "name_eng": "Dorm Basketball Court",
+    "type": "uni_other_building",
+    "lat": 21.006787,
+    "lon": 105.846164
+  },
+  {
+    "name": "Sân bóng đá",
+    "name_eng": "Football Field",
+    "type": "uni_other_building",
+    "lat": 21.00683,
+    "lon": 105.846702
+  },
+  {
+    "name": "Sân vận động Bách Khoa",
+    "name_eng": "Bach Khoa Stadium",
+    "type": "uni_other_building",
+    "lat": 21.004794,
+    "lon": 105.847609
+  },
+  {
+    "name": "Sân vận động Bách Khoa",
+    "name_eng": "Bach Khoa Stadium",
+    "type": "",
+    "lat": 21.004671,
+    "lon": 105.847614
+  },
+  {
+    "name": "Thư viện Tạ Quang Bửu",
+    "name_eng": "Library Ta Quang Buu",
+    "type": "uni_building",
+    "lat": 21.0044369,
+    "lon": 105.8441347
+  },
+  {
+    "name": "Thư viện Đại học Xây dựng Hà Nội",
+    "name_eng": "",
+    "type": "",
+    "lat": 21.004405,
+    "lon": 105.84228
+  },
+  {
+    "name": "Trung tâm Việt Đức",
+    "name_eng": "Vietnam-Germany Center",
+    "type": "uni_other_building",
+    "lat": 21.0047173,
+    "lon": 105.8431576
+  },
+  {
+    "name": "Trung tâm Y tế, Trạm xá",
+    "name_eng": "Medical center",
+    "type": "uni_other_building",
+    "lat": 21.006726,
+    "lon": 105.847569
+  },
+  {
+    "name": "Trường Cao đẳng nghề Bách khoa Hà Nội",
+    "name_eng": "",
+    "type": "uni_other_building",
+    "lat": 21.004362,
+    "lon": 105.847626
+  },
+  {
+    "name": "Điểm trông giữ xe D3 - D5",
+    "name_eng": "Two-Wheel Parking D3-D5",
+    "type": "uni_motor_parking",
+    "lat": 21.0043297,
+    "lon": 105.8451525
+  },
+  {
+    "name": "Điểm trông giữ xe D3 - D5",
+    "name_eng": "Two-Wheel Parking D3-D5",
+    "type": "uni_motor_parking",
+    "lat": 21.0043297,
+    "lon": 105.8451525
+  },
+  {
+    "name": "Điểm trông giữ xe D4-6-8",
+    "name_eng": "Two-Wheel Parking D4-6-8",
+    "type": "uni_motor_parking",
+    "lat": 21.0045451,
+    "lon": 105.842573
+  },
+  {
+    "name": "Điểm trông giữ xe D7 - D9",
+    "name_eng": "Two-Wheel Parking D7-D9",
+    "type": "uni_motor_parking",
+    "lat": 21.0040429,
+    "lon": 105.8441198
+  },
+  {
+    "name": "Đài phun nước Bách Khoa",
+    "name_eng": "Fountain",
+    "type": "",
+    "lat": 21.0062379,
+    "lon": 105.843129
+  },
+  {
+    "name": "Đài phun nước Kim Tự Tháp",
+    "name_eng": "",
+    "type": "",
+    "lat": 21.003823,
+    "lon": 105.842144
+  }
+]
